@@ -1,0 +1,12 @@
+{
+  "name": "deepseek-translator",
+  "version": "1.0.0",
+  "description": "Korean to Chinese translator using DeepSeek LLM",
+  "author": "MISO01",
+  "commands": {
+    "translate": {
+      "description": "Translate Korean text to Chinese",
+      "function": "translate_text"
+    }
+  }
+} 

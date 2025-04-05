@@ -1,0 +1,1 @@
+This is a Korean to Chinese translator built as an MCP tool using DeepSeek LLM. It is designed to integrate with Cursor via Smithery or local server. 
