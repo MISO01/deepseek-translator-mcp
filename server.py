@@ -1,4 +1,6 @@
-from smithery import run_server
+import tools.translate_ko_to_zh  # MCP 툴 직접 import
 
 if __name__ == "__main__":
-    run_server()
+    from smithery import serve
+    serve()
+
